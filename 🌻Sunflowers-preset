@@ -1,4 +1,14 @@
 {
+    "preset_metadata": {
+        "name": "🌻 Sunflower Preset",
+        "version": "1.0.0",
+        "author": "TU_NOMBRE",
+        "description": "Immersive modular RP preset with toggle system. Spanish default output, English internal processing.",
+        "license": "CC BY 4.0",
+        "github": "https://github.com/TU_USER/sunflower-preset",
+        "created": "2025"
+   },
+
     "temperature": 1,
     "frequency_penalty": 0,
     "presence_penalty": 0,
