@@ -1,5 +1,7 @@
 ## 🌻🌻 -Sunflowers-preset
-##Un preset enfocado en la inmersion profunda y total atención al detalle ya sea roleplay o narrativa.
+##Un preset asi bien enfocado en la inmersion profunda y total atención al detalle para el roleplay o narrativa.
+
+Funciona para ser en teoría todo terreno, quiere decir desde modelos grandes como el opus o gemini (chat gpt es basura) a modelos medianos chinos.
 
 >Diseñado para la atención al detalle 👀 , narrativa organica y super personalizable de manera secnilla ⚙️.
 >Un enchanter que hará sentir los personajes totalmente naturales.
@@ -99,16 +101,17 @@ y mas........
 ## 📸 Capturas
 
 ### Vista de los toggles en SillyTavern
-[captura aquí]
 
+ [espero que no se me olvide colocar las capturas]
+ 
 ### Ejemplo de respuesta — Default
-[captura aquí]
+
 
 ### Ejemplo de respuesta — Con ULTRA Detail
-[captura aquí]
+
 
 ### Ejemplo de respuesta — Con Romance toggles
-[captura aquí]
+
 
 ---
 
