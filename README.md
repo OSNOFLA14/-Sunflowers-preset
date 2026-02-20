@@ -1,7 +1,9 @@
 ## 🌻🌻 -Sunflowers-preset
-##Un preset asi bien enfocado en la inmersion profunda y total atención al detalle para el roleplay o narrativa.
+##Un preset asi bien enfocadote en la inmersion profunda y total atención al detalle para el roleplay o narrativa.
 
-Funciona para ser en teoría todo terreno, quiere decir desde modelos grandes como el opus o gemini (chat gpt es basura) a modelos medianos chinos.
+**🔨🔧Puedes tomar mi chat preset, modficarlo y publicarlo a tu gusto, NO necesitas permiso ni nada de eso, solo la única cosa de que pido es que pongas mi referencia como @OSNOFLA14 para créditos solo eso.
+
+Funciona para ser en la práctica todo terreno, quiere decir desde modelos grandes como el opus o gemini (chat gpt es basura) a modelos raros chinos.
 
 >Diseñado para la atención al detalle 👀 , narrativa organica y super personalizable de manera secnilla ⚙️.
 >Un enchanter que hará sentir los personajes totalmente naturales.
